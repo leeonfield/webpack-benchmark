@@ -61,7 +61,8 @@
     "react-dev-inspector": "^1.1.1",
     "react-dom": "^17.0.0",
     "react-helmet-async": "^1.0.4",
-    "umi": "^v3.4.0"
+    "umi": "^3.5.0",
+    "v8-compile-cache": "^2.3.0"
   },
   "devDependencies": {
     "@ant-design/pro-cli": "^2.0.2",

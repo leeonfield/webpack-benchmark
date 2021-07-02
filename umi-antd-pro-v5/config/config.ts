@@ -65,4 +65,6 @@ export default defineConfig({
       projectName: 'swagger',
     },
   ],
+  mfsu: {},
+  webpack5: {},
 });
